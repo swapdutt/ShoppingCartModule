@@ -26,8 +26,9 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.2.2.RELEASE</version>
+			<version>5.2.3.RELEASE</version>
 		</dependency>
+
 
 		<!-- Servlet API Maven Dependency -->
 		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
